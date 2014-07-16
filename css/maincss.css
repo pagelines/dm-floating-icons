@@ -1,0 +1,9 @@
+#social_img_cont{
+	position: absolute;
+	z-index: 1031;
+	margin: 5px;
+	text-align: center;
+}
+.social_img_div{
+	height: auto;
+}
